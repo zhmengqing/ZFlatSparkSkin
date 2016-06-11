@@ -1,5 +1,5 @@
 # ZFlatSparkSkin
-写着玩！
+在源代码FlatSparkSkin中添加其他组件皮肤
 echo # DoubanFM >> README.md
 git init
 git add README.md
